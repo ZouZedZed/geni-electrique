@@ -5,6 +5,9 @@ psycopg2-binary==2.9.9
 python-dotenv==1.0.1
 pydantic==2.9.2
 
+# Supabase (client Python optionnel — pour Auth, Storage, Realtime si besoin plus tard)
+supabase==2.10.0
+
 # Semantic matching
 sentence-transformers==3.1.1
 numpy==1.26.4
